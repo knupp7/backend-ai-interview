@@ -115,7 +115,7 @@ uvicorn app.main:app --reload
          <img src="https://github.com/hojuna.png" style="max-width: 100px">
          </a>
          <br>
-         <a href="https://github.com/hojuna4"><B>Backed</B></a>
+         <a href="https://github.com/hojuna4"><B>Backend</B></a>
      </td>
  </tr>
 </table>
