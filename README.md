@@ -51,7 +51,7 @@ uvicorn app.main:app --reload
 | 구분           | 사용 기술 |
 |----------------|-----------|
 | 프론트엔드     | Vite + React |
-| 백엔드         | FastAPI, Gemini API, LangChain |
+| 백엔드         | FastAPI, Gemini API, Firebase |
 | 데이터 처리     | Python 크롤링 (Velog, Tistory, 사람인) |
 <br/>
 
